@@ -38,14 +38,6 @@
   <source>Add it to your Home Screen for extensive experience and easy access.</source>
   <target>Adja hozzá a kezdőképernyőjéhez a teljes élmény és a könnyű hozzáférés érdekében.</target>
 </trans-unit>
-<trans-unit id="s54cfbb14f46396d4">
-  <source>1) Open in your main browser</source>
-  <target>1) Nyissa meg a fő böngészőjében</target>
-</trans-unit>
-<trans-unit id="s1b9047d53d9f9d22">
-  <source>2) Press Share in Navigation bar</source>
-  <target>2) Nyomja meg a Megosztás gombot a navigációs sávban</target>
-</trans-unit>
 <trans-unit id="sa7551383d1897fcc">
   <source>2) Press Add to Dock</source>
   <target>2) Nyomja meg a Hozzáadás a Dock-hoz gombot</target>
@@ -65,6 +57,14 @@
 <trans-unit id="scdaf4bbff76674c8">
   <source>Add to Home Screen</source>
   <target>Hozzáadás a kezdőképernyőhöz</target>
+</trans-unit>
+<trans-unit id="s6d64aeaadcc05a49">
+  <source>1) Open website in Safari</source>
+  <target>1) Nyissa meg a weboldalt a Safari-ban</target>
+</trans-unit>
+<trans-unit id="s43ebdf0b81d0c81b">
+  <source>2) Press Share icon in navigation bar</source>
+  <target>2) Nyomja meg a Megosztás gombot a navigációs sávban</target>
 </trans-unit>
 </body>
 </file>
