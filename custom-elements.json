@@ -227,6 +227,15 @@
             },
             {
               "kind": "field",
+              "name": "isSafariBrowser",
+              "type": {
+                "text": "boolean"
+              },
+              "privacy": "private",
+              "default": "false"
+            },
+            {
+              "kind": "field",
               "name": "isUnderStandaloneMode",
               "type": {
                 "text": "boolean"
