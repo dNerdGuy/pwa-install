@@ -61,6 +61,7 @@ export class PWAInstallElement extends LitElement {
 	public isAppleDesktopPlatform = false;
 	public isAndroidFallback = false;
 	public isAndroid = false;
+  	private isSafariBrowser = false;
 	public isUnderStandaloneMode = false;
 	public isRelatedAppsInstalled = false;
 
@@ -159,6 +160,7 @@ export class PWAInstallElement extends LitElement {
     }
 	/** @internal */
 	private async _checkPlatform() {
+    	this.isSafariBrowser = Utils.isSafari();
 		this.isUnderStandaloneMode = Utils.isStandalone();
 		this.isRelatedAppsInstalled = await Utils.isRelatedAppsInstalled();
 		this.isAppleMobilePlatform = Utils.isAppleMobile();
@@ -306,6 +308,7 @@ export class PWAInstallElement extends LitElement {
 				this._howToRequested,
 				this._toggleGallery,
 				this._galleryRequested,
+        		this.isSafariBrowser,
 				this._isRTL
 			)}`;
 		else

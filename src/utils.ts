@@ -10,6 +10,11 @@ const _eventDispatcher = (_element: Element, name: string, message: string) => {
     _element.dispatchEvent(event);
 }
 export default class Utils {
+    static isSafari(): boolean {
+        const userAgent = navigator.userAgent.toLowerCase();
+        return userAgent.includes("safari") && !userAgent.includes("chrome");
+      }
+
     static isAppleMobile(): boolean {
 		if (
                 (
