@@ -19,11 +19,11 @@
 's6d64aeaadcc05a49': `1) Open website in Safari`,
 's922329d6f6213590': `Toevoegen aan Dock`,
 'sa5ef80b4bb9b39f8': `Minder`,
-'sa7551383d1897fcc': `2) Druk op Toevoegen aan Dock`,
 'sba52286c21552a4e': `Installeer het op je apparaat voor een uitgebreide ervaring en gemakkelijke toegang.`,
 'sc79fd7641eb9a975': `Instructie verbergen`,
 'scdaf4bbff76674c8': `Toevoegen aan het startscherm`,
 'se740f75b95a51807': `Voeg het toe aan je Dock voor een uitgebreide ervaring en makkelijke toegang.`,
+'seafae0d733bf78e9': `3) Druk op Toevoegen aan Dock`,
 'sfea652f6580ff086': `Deze site heeft app-functionaliteit.`,
     };
   

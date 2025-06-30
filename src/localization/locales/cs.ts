@@ -19,11 +19,11 @@
 's6d64aeaadcc05a49': `1) Otevřete webovou stránku v Safari`,
 's922329d6f6213590': `Přidat do Docku`,
 'sa5ef80b4bb9b39f8': `Méně`,
-'sa7551383d1897fcc': `2) Stiskněte Přidat do Docku`,
 'sba52286c21552a4e': `Nainstalujte si jej na své zařízení pro rozšířené využití a snadný přístup.`,
 'sc79fd7641eb9a975': `Skrýt instrukce`,
 'scdaf4bbff76674c8': `Přidat na plochu`,
 'se740f75b95a51807': `Přidejte jej do svého Docku pro rozšířené využití a snadný přístup.`,
+'seafae0d733bf78e9': `3) Stiskněte Přidat do Docku`,
 'sfea652f6580ff086': `Tento web má funkce aplikace.`,
     };
   

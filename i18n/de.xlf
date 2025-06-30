@@ -34,9 +34,9 @@
         <source>Add it to your Home Screen for extensive experience and easy access.</source>
         <target>Fügen Sie es zu Ihrem Startbildschirm hinzu, um eine umfassende Erfahrung und einen leichten Zugriff zu erhalten.</target>
       </trans-unit>
-      <trans-unit id="sa7551383d1897fcc">
-        <source>2) Press Add to Dock</source>
-        <target>2) Drücken Sie auf Zum Dock hinzufügen</target>
+      <trans-unit id="seafae0d733bf78e9">
+      <source>3) Press Add to Dock</source>
+      <target>3) Drücken Sie auf Zum Dock hinzufügen</target>
       </trans-unit>
       <trans-unit id="s922329d6f6213590">
         <source>Add to Dock</source>

@@ -19,11 +19,11 @@
 's6d64aeaadcc05a49': `1) Öppna webbplats i Safari`,
 's922329d6f6213590': `Lägg till i Dock`,
 'sa5ef80b4bb9b39f8': `Mindre`,
-'sa7551383d1897fcc': `2) Välj Lägg till i Dock`,
 'sba52286c21552a4e': `Installera den på din enhet för att få en bättre användarupplevelse och enklare åtkomst.`,
 'sc79fd7641eb9a975': `Göm instruktioner`,
 'scdaf4bbff76674c8': `Lägg till på hemskärmen`,
 'se740f75b95a51807': `Lägg till i Dock för att få en bättre användarupplevelse och enklare åtkomst.`,
+'seafae0d733bf78e9': `3) Välj Lägg till i Dock`,
 'sfea652f6580ff086': `Denna webbsajt har app-funktionalitet.`,
     };
   

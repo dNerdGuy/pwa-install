@@ -19,11 +19,11 @@
 's6d64aeaadcc05a49': `1) Öffnen Sie die Website in Safari`,
 's922329d6f6213590': `Zum Dock hinzufügen`,
 'sa5ef80b4bb9b39f8': `Weniger`,
-'sa7551383d1897fcc': `2) Drücken Sie auf Zum Dock hinzufügen`,
 'sba52286c21552a4e': `Installieren Sie es auf Ihrem Gerät für eine umfassende Erfahrung und einen leichten Zugriff.`,
 'sc79fd7641eb9a975': `Anleitung ausblenden`,
 'scdaf4bbff76674c8': `Hinzufügen zum Startbildschirm`,
 'se740f75b95a51807': `Fügen Sie es zu Ihrem Dock hinzu, um eine umfassende Erfahrung und einen leichten Zugriff zu erhalten.`,
+'seafae0d733bf78e9': `3) Drücken Sie auf Zum Dock hinzufügen`,
 'sfea652f6580ff086': `Diese Website verfügt über App-Funktionalität.`,
     };
   

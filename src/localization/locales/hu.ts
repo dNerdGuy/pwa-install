@@ -19,11 +19,11 @@
 's6d64aeaadcc05a49': `1) Nyissa meg a weboldalt a Safari-ban`,
 's922329d6f6213590': `Hozzáadás a Dock-hoz`,
 'sa5ef80b4bb9b39f8': `Kevesebb`,
-'sa7551383d1897fcc': `2) Nyomja meg a Hozzáadás a Dock-hoz gombot`,
 'sba52286c21552a4e': `Telepítse eszközére a teljes élmény és a könnyű hozzáférés érdekében.`,
 'sc79fd7641eb9a975': `Útmutató elrejtése`,
 'scdaf4bbff76674c8': `Hozzáadás a kezdőképernyőhöz`,
 'se740f75b95a51807': `Adja hozzá a Dock-hoz a teljes élmény és a könnyű hozzáférés érdekében.`,
+'seafae0d733bf78e9': `3) Nyomja meg a Hozzáadás a Dock-hoz gombot`,
 'sfea652f6580ff086': `Ez az oldal alkalmazásfunkcióval rendelkezik.`,
     };
   

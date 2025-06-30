@@ -19,11 +19,11 @@
 's6d64aeaadcc05a49': `1) Mở trang web trong Safari`,
 's922329d6f6213590': `Thêm vào Dock`,
 'sa5ef80b4bb9b39f8': `Thu gọn`,
-'sa7551383d1897fcc': `2) Nhấp vào "Thêm vào Dock"`,
 'sba52286c21552a4e': `Cài đặt trên thiết bị của bạn để có trải nghiệm phong phú hơn và truy cập dễ dàng.`,
 'sc79fd7641eb9a975': `Ẩn các bước cài đặt`,
 'scdaf4bbff76674c8': `Thêm vào màn hình chính`,
 'se740f75b95a51807': `Thêm nó vào Dock của bạn để có trải nghiệm toàn diện hơn và truy cập dễ dàng hơn.`,
+'seafae0d733bf78e9': `3) Nhấp vào "Thêm vào Dock"`,
 'sfea652f6580ff086': `Trang web này có cả chức năng đặc trưng ứng dụng.`,
     };
   

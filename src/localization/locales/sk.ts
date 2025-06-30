@@ -19,11 +19,11 @@
 's6d64aeaadcc05a49': `1) Otvorte webovú stránku v Safari`,
 's922329d6f6213590': `Pridať do Docku`,
 'sa5ef80b4bb9b39f8': `Menej`,
-'sa7551383d1897fcc': `2) Stlačte Pridať do Docku`,
 'sba52286c21552a4e': `Nainštalujte si ju na svoje zariadenie pre rozšírené využitie a jednoduchý prístup.`,
 'sc79fd7641eb9a975': `Skryť inštrukcie`,
 'scdaf4bbff76674c8': `Pridať na domovskú obrazovku`,
 'se740f75b95a51807': `Pridajte ju do Docku pre rozšírené využitie a jednoduchý prístup.`,
+'seafae0d733bf78e9': `3) Stlačte Pridať do Docku`,
 'sfea652f6580ff086': `Táto stránka má funkcie aplikácie.`,
     };
   

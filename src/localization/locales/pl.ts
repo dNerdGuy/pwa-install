@@ -19,11 +19,11 @@
 's6d64aeaadcc05a49': `1) Otwórz stronę internetową w Safari`,
 's922329d6f6213590': `Dodaj do Docka`,
 'sa5ef80b4bb9b39f8': `Mniej`,
-'sa7551383d1897fcc': `2) Wybierz "Dodaj do Docka"`,
 'sba52286c21552a4e': `Zainstaluj na swoim urządzeniu, aby uzyskać bogate doświadczenie i łatwy dostęp.`,
 'sc79fd7641eb9a975': `Ukryj instrukcję`,
 'scdaf4bbff76674c8': `Dodaj do Ekranu Głównego`,
 'se740f75b95a51807': `Dodaj do swojego Docka, aby uzyskać bogate doświadczenie i łatwy dostęp.`,
+'seafae0d733bf78e9': `3) Wybierz "Dodaj do Docka"`,
 'sfea652f6580ff086': `Ta strona posiada funkcje aplikacji.`,
     };
   

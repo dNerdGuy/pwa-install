@@ -19,11 +19,11 @@
 's6d64aeaadcc05a49': `1) Abre el sitio web en Safari`,
 's922329d6f6213590': `Añadir al Dock`,
 'sa5ef80b4bb9b39f8': `Menos`,
-'sa7551383d1897fcc': `2) Presionar Añadir al Dock`,
 'sba52286c21552a4e': `Instálalo en tu dispositivo para una experiencia amplia y acceso fácil.`,
 'sc79fd7641eb9a975': `Esconder instrucciones`,
 'scdaf4bbff76674c8': `Añadir a pantalla de inicio`,
 'se740f75b95a51807': `Añádelo a tu Dock para una experiencia amplia y acceso fácil.`,
+'seafae0d733bf78e9': `3) Presionar Añadir al Dock`,
 'sfea652f6580ff086': `Este sitio tiene funcionalidad de aplicación.`,
     };
   
