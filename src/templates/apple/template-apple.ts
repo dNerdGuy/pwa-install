@@ -28,7 +28,7 @@ const template = (name: string, description: string, installDescription: string,
                 <div class="how-to-body">
                     <div class="how-to-description">
 
-                        ${!isDesktop && !isSafariBrowser ? html`
+                        ${!isSafariBrowser ? html`
                         <div class="description-step">
                             <div class="svg-wrap">
                                 <svg id="pwa-safari" viewBox="0 0 20.283 19.932" width="24" height="24">
@@ -43,7 +43,7 @@ const template = (name: string, description: string, installDescription: string,
                                     <g fill="currentColor"><path d="M17.334 10.762v9.746c0 2.012-1.025 3.027-3.066 3.027H3.066C1.026 23.535 0 22.52 0 20.508v-9.746C0 8.75 1.025 7.734 3.066 7.734h2.94v1.573h-2.92c-.977 0-1.514.527-1.514 1.543v9.57c0 1.015.537 1.543 1.514 1.543h11.152c.967 0 1.524-.527 1.524-1.543v-9.57c0-1.016-.557-1.543-1.524-1.543h-2.91V7.734h2.94c2.04 0 3.066 1.016 3.066 3.028Z"/><path d="M8.662 15.889c.42 0 .781-.352.781-.762V5.097l-.058-1.464.654.693 1.484 1.582a.698.698 0 0 0 .528.235c.4 0 .713-.293.713-.694 0-.205-.088-.361-.235-.508l-3.3-3.183c-.196-.196-.362-.264-.567-.264-.195 0-.361.069-.566.264L4.795 4.94a.681.681 0 0 0-.225.508c0 .4.293.694.703.694.186 0 .4-.079.538-.235l1.474-1.582.664-.693-.058 1.465v10.029c0 .41.351.762.771.762Z"/></g>
                                 </svg>
                             </div>
-                            <div class="step-text">${msg('2) Press Share icon in navigation bar').replace((isDesktop || isSafariBrowser) ? '2)': '0)', '1)')}</div>
+                            <div class="step-text">${msg('2) Press Share icon in navigation bar').replace(isSafariBrowser ? '2)' : '0)', '1)')}</div>
                         </div>
                         <div class="description-step">
                             <div class="svg-wrap">
@@ -56,7 +56,7 @@ const template = (name: string, description: string, installDescription: string,
                                     </svg>`
                                 }
                             </div>
-                            <div class="step-text">${isDesktop? msg('2) Press Add to Dock'): msg('3) Scroll down to "Add to Home Screen"').replace(isSafariBrowser ? '3)' : '0)', '2)')}</div>
+                            <div class="step-text">${(isDesktop? msg('3) Press Add to Dock'): msg('3) Scroll down to "Add to Home Screen"')).replace(isSafariBrowser ? '3)' : '0)', '2)')}</div>
                         </div>
                     </div>
                 </div>
