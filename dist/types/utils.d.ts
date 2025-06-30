@@ -1,6 +1,7 @@
 import { WebAppManifest } from 'web-app-manifest';
 import { IRelatedApp } from './types/types';
 export default class Utils {
+    static isSafari(): boolean;
     static isAppleMobile(): boolean;
     static isAppleDesktop(): boolean;
     static isAndroid(): boolean;

@@ -26,6 +26,7 @@ export declare class PWAInstallElement extends LitElement {
     isAppleDesktopPlatform: boolean;
     isAndroidFallback: boolean;
     isAndroid: boolean;
+    private isSafariBrowser;
     isUnderStandaloneMode: boolean;
     isRelatedAppsInstalled: boolean;
     private _isRTL;
