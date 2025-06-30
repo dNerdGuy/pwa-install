@@ -11,9 +11,14 @@ const _eventDispatcher = (_element: Element, name: string, message: string) => {
 }
 export default class Utils {
     static isSafari(): boolean {
-        const ua = navigator.userAgent.toLowerCase();   
-        return (/safari/i.test(ua) && !/chrome|crios|chromium|android/i.test(ua));
-      }
+        if (typeof navigator === 'undefined') return false;
+        
+        const ua = navigator.userAgent;
+        const hasSafari = /Safari/i.test(ua);
+        const isAppleVendor = /Apple Computer/i.test(navigator.vendor || '');
+        const isChromiumBased = /Chrome|CriOS|Chromium|Edge|Edg\/|OPR|Opera|SamsungBrowser|Firefox|FxiOS|DuckDuckGo/i.test(ua);
+        return hasSafari && isAppleVendor && !isChromiumBased;
+    }
 
     static isAppleMobile(): boolean {
 		if (
